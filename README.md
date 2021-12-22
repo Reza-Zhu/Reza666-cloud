@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reza666-cloud
-- 👀 I’m interested in UAV,UAV Localization,Drone Swarm,CV.
-- 🌱 I’m currently learning master degree in SUES.
+- 👀 I’m interested in CV,Drone,Localization.
+- 🌱 I’m currently pursuing master degree in SUES.
 - 💞️ I’m looking to collaborate on someone who major in UAV application.
 - 📫 How to reach me,my email : *M025120503@sues.edu.cn*.
 
